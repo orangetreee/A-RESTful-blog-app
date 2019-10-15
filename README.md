@@ -1,2 +1,2 @@
 # A-RESTful-blog-app
-built with RESTful APIs
+A blog built with RESTful APIs
